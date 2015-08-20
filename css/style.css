@@ -18,8 +18,7 @@ body{
 }
 #englishTitle{
 	text-align: center;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding:10%;
 	background-color: #82D082;
 }
 #englishTeachersTitle{
@@ -78,6 +77,10 @@ padding-bottom:2px;
 
 #classpanel{
 	margin-top: 50px;
+	margin-left: -3.5%;
 }
-
+#Testimonials{
+	width: 66.66666%;
+	background-color: #D1D1D2;
+}
 
