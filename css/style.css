@@ -1,3 +1,11 @@
+
+.science{	
+	text-align: center;
+	font-size: 50px;
+	padding: 30px;
+	
+}
+
 #home-header{
     padding:10%;
     background-color:lightblue;
@@ -10,6 +18,7 @@
     padding:5%;
     color:white;
 }
+
 header{
 	background-color: grey;
 	text-align: center;
@@ -21,3 +30,4 @@ header{
 .panel{
 	margin-top: 50px;
 }
+
