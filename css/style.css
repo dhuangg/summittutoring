@@ -1,4 +1,37 @@
 
+#englishInvisibleBox{
+	height: 92px;
+}
+body{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#CourseDescription{
+	position: relative;
+	right: 40px;
+	z-index: -1;
+}
+#coursetext{
+	padding-left:20px;
+}
+#englishTitle{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #82D082;
+}
+#englishTeachersTitle{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#englishFooter{
+padding-bottom:2px;
+}
+
+
+
 .math{
 	text-align: center;
     background-color:black;
@@ -16,6 +49,7 @@
 }
 
 
+
 #home-header{
     padding:10%;
     background-color:lightblue;
@@ -28,6 +62,7 @@
     padding:5%;
     color:white;
 }
+
 
 #header{
 	background-color: grey;
