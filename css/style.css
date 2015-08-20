@@ -1,15 +1,18 @@
+#englishInvisibleBox{
+	height: 92px;
+}
 body{
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
 }
-#Summary{
+#CourseDescription{
 	position: relative;
 	right: 40px;
 	z-index: -1;
 }
-#summarytext{
+#coursetext{
 	padding-left:20px;
 }
 #englishTitle{
@@ -19,12 +22,11 @@ body{
 	background-color: #82D082;
 }
 #englishTeachersTitle{
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 #englishFooter{
-	padding-left: 3px;
-	padding-right: 5px;
+padding-bottom:2px;
 }
 
 #home-header{
