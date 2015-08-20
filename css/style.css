@@ -1,4 +1,17 @@
-
+body{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#Summary{
+	position: relative;
+	right: 40px;
+	z-index: -1;
+}
+#summarytext{
+	padding-left:20px;
+}
 #englishTitle{
 	text-align: center;
 	padding-top: 30px;
