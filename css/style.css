@@ -63,12 +63,21 @@ padding-bottom:2px;
     color:white;
 }
 
-.panel{
+
+#header{
+	background-color: grey;
+	text-align: center;
+	color:black;
+	font-size: 100px;
+	padding: 20px;
+
+}
+#teacherpanel {
 	margin-top: 50px;
 }
 
-.panel-group{
-
+#classpanel{
+	margin-top: 50px;
 }
 
 
