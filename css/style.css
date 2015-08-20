@@ -1,6 +1,21 @@
+
 .science{	
 	text-align: center;
 	font-size: 50px;
 	padding: 30px;
 	
 }
+
+#home-header{
+    padding:10%;
+    background-color:lightblue;
+    text-align:center;
+    color:white;
+}
+
+.footer{
+    background-color:rgb(51,51,51);
+    padding:5%;
+    color:white;
+}
+
