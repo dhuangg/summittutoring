@@ -1,0 +1,23 @@
+#home-header{
+    padding:10%;
+    background-color:lightblue;
+    text-align:center;
+    color:white;
+}
+
+.footer{
+    background-color:rgb(51,51,51);
+    padding:5%;
+    color:white;
+}
+header{
+	background-color: grey;
+	text-align: center;
+	color:black;
+	font-size: 100px;
+	padding: 20px;
+
+}
+.panel{
+	margin-top: 50px;
+}
