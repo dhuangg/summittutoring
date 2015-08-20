@@ -29,7 +29,7 @@
     color:white;
 }
 
-header{
+#header{
 	background-color: grey;
 	text-align: center;
 	color:black;
@@ -37,11 +37,12 @@ header{
 	padding: 20px;
 
 }
-.panel{
+#teacherpanel {
 	margin-top: 50px;
 }
 
-.panel-group{
-
+#classpanel{
+	margin-top: 50px;
 }
+
 
