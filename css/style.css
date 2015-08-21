@@ -195,10 +195,35 @@ padding-bottom:2px;
 	font-size: 23px;
 	margin-left:50px;
 	font-weight: bold;
-	display: inline;
+	
 }
 #contactustutoringsession{
 	margin-top: -80px;
-	display: inline;
+	
 }
+#email{
+	margin-left: 50px;
+	font-size: 25px;
+	font-weight: bold;
+	margin-top: -100px;
 
+}
+#phonenumber{
+	margin-top: 50px;
+	margin-left: 50px;
+	font-size: 25px;
+	font-weight: bold;
+}
+#contactshit{
+	height:90px;
+	margin-left: 850px;
+	margin-top: px;
+}
+#firstname, #lastname, #telephonenumber, #commet, #emailaddress{
+	font-size: 20px;
+	margin-left: -150px;
+	margin-right: 100px;
+}
+#contactshit{
+	margin-top: 150px;
+}
