@@ -64,9 +64,9 @@ padding-bottom:2px;
 
 
 #header{
-	background-color: grey;
+	background-color: #143333;
 	text-align: center;
-	color:black;
+	color:#5CE6E6;
 	font-size: 100px;
 	padding: 20px;
 
@@ -83,4 +83,12 @@ padding-bottom:2px;
 	width: 66.66666%;
 	background-color: #D1D1D2;
 }
-
+#hancock{
+	height :210px;
+}
+#carolen{
+	height:210px;
+}
+#ehson{
+	height:210px;
+}
