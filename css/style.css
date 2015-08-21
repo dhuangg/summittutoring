@@ -1,3 +1,34 @@
+
+.facultyLink{
+padding-top:30px !important;
+padding-bottom:30px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @font-face {
 	font-family: 'bauhaus_93regular';
 	src: url('../fonts/03950_bauhaus93-webfont.eot');
@@ -22,6 +53,7 @@ h1,h2{font-family:'bauhaus_93regular' !important;}
 	margin-top:3%;
 	margin-bottom:3%;
 }
+
 
 body{
 	margin-top: 0px;
