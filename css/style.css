@@ -1,19 +1,61 @@
 
+#englishInvisibleBox{
+	height: 92px;
+}
+body{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#CourseDescription{
+	position: relative;
+	right: 40px;
+	z-index: -1;
+}
+#coursetext{
+	padding-left:20px;
+}
+#englishTitle{
+	text-align: center;
+	padding:10%;
+	background-color: #82D082;
+}
+#englishTeachersTitle{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#englishFooter{
+padding-bottom:2px;
+}
+
+
+
+.math{
+	text-align: center;
+    background-color:black;
+    color:white;
+    padding:50px;
+    font-size: 60px;
+}
+
+
 .science{	
 	text-align: center;
 	font-size: 50px;
 	padding: 30px;
 	
 }
-#coursedescription{
-	margin-left: -3.5%;
-}
-
-
 
 #teacherspanelheading{
 	text-align: center;
 }
+
+.carousel-indicators{
+	top: 0px;
+}
+
+
 
 
 #home-header{
@@ -28,4 +70,23 @@
     padding:5%;
     color:white;
 }
+
+
+#header{
+	background-color: grey;
+	text-align: center;
+	color:black;
+	font-size: 100px;
+	padding: 20px;
+
+}
+#teacherpanel {
+	margin-top: 50px;
+}
+
+#classpanel{
+	margin-top: 50px;
+	margin-left: -3.5%;
+}
+
 
