@@ -2,7 +2,295 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8edcf22-e62c-4292-975a-03660efc685f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/middle_english.html" afterPath="$PROJECT_DIR$/middle_english.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/director.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flyer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/grouplearning.jpg" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\162488195-postmessagerelay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\1959351782-lcs_receiver_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\3159521859-lcs_client_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD(1)" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\PaqViMJjymkfEosZVjJ-dxC9qDH3FT5VERZM2WD7zRQgvAjdLrpiI9t-QAhztB3Jb5Zao7st8jbC3iDWB8gp50KUVUuEEiGFYMU0wbHAuhv2owJRC_ibTSlVg173xQC1r3SJMEjPjepeGNPV8PtREPgyK" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\api.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cb=gapi(1).loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cb=gapi(2).loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cb=gapi.loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cb=gapi.loaded_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cb=gapi.loaded_2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cb=gapi.loaded_3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\chat.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cleardot(1).gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cleardot.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\client(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\client.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\client.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\cmn2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\core-rpc-shindig.random-shindig.sha1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\dn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\frame(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\frame2(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\frame2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\host-js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\hovercard.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\hscv(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\hscv.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\icon_1_archive_x16.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\jn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(10).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(11).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(12).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(13).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(14).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(15).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(16).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(17).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(18).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(3).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(4).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(6).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(7).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(8).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo(9).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\postmessageRelay(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\postmessageRelay(2).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\postmessageRelay.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\profile_mask2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\proxy(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\proxy.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\recentposts.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AA2YrTsdf4ANhQSeVm_GaHNWFT9_ynWpSg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AGLTcCNLsN0OhiWkwdCQUidVNP1Fe9n1uw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AGLTcCNygYYInGZRzO94lJnm4wReCCU5kw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AGLTcCOeBLOgzVhiKgW6RMsGAp8qfXNjpA" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AGLTcCOgX8grB1NCbwjto4Wh4ckCRhcZvg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AGyH-FtJDOmmfihPFXSE6VjI563sPPkX3w" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AHGWq9AVVSGT3nXXOdAhbtbRzht0N49SqA.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ(1)" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files\scttr" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\162488195-postmessagerelay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\1959351782-lcs_receiver_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\3159521859-lcs_client_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD(1)" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\PaqViMJjymkfEosZVjJ-dxC9qDH3FT5VERZM2WD7zRQgvAjdLrpiI9t-QAhztB3Jb5Zao7st8jbC3iDWB8gp50KUVUuEEiGFYMU0wbHAuhv2owJRC_ibTSlVg173xQC1r3SJMEjPjepeGNPV8PtREPgyK" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\api.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cb=gapi(1).loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cb=gapi(2).loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cb=gapi.loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cb=gapi.loaded_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cb=gapi.loaded_2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cb=gapi.loaded_3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\chat.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cleardot(1).gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cleardot.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\client(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\client.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\client.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\cmn2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\core-rpc-shindig.random-shindig.sha1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\dn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\frame(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\frame2(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\frame2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\host-js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\hovercard.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\hscv(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\hscv.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\icon_1_archive_x16.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\jn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(10).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(11).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(12).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(13).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(14).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(15).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(16).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(17).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(18).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(3).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(4).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(6).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(7).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(8).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo(9).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\postmessageRelay(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\postmessageRelay(2).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\postmessageRelay.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\profile_mask2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\proxy(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\proxy.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\recentposts.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AA2YrTsdf4ANhQSeVm_GaHNWFT9_ynWpSg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AGLTcCNLsN0OhiWkwdCQUidVNP1Fe9n1uw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AGLTcCNygYYInGZRzO94lJnm4wReCCU5kw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AGLTcCOeBLOgzVhiKgW6RMsGAp8qfXNjpA" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AGLTcCOgX8grB1NCbwjto4Wh4ckCRhcZvg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AGyH-FtJDOmmfihPFXSE6VjI563sPPkX3w" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AHGWq9AVVSGT3nXXOdAhbtbRzht0N49SqA.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ(1)" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files\scttr" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\162488195-postmessagerelay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\1959351782-lcs_receiver_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\3159521859-lcs_client_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD(1)" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\PaqViMJjymkfEosZVjJ-dxC9qDH3FT5VERZM2WD7zRQgvAjdLrpiI9t-QAhztB3Jb5Zao7st8jbC3iDWB8gp50KUVUuEEiGFYMU0wbHAuhv2owJRC_ibTSlVg173xQC1r3SJMEjPjepeGNPV8PtREPgyK1VO_wh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\api.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cb=gapi(1).loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cb=gapi(2).loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cb=gapi.loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cb=gapi.loaded_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cb=gapi.loaded_2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cb=gapi.loaded_3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\chat.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cleardot(1).gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cleardot.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\client(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\client.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\client.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\cmn2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\core-rpc-shindig.random-shindig.sha1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\dn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\frame(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\frame2(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\frame2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\host-js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\hovercard.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\hscv(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\hscv.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\icon_1_archive_x16.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\jn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(10).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(11).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(12).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(13).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(14).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(15).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(16).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(17).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(18).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(3).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(4).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(6).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(7).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(8).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo(9).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\postmessageRelay(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\postmessageRelay(2).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\postmessageRelay.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\profile_mask2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\proxy(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\proxy.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\recentposts.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AA2YrTsdf4ANhQSeVm_GaHNWFT9_ynWpSg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AGLTcCNLsN0OhiWkwdCQUidVNP1Fe9n1uw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AGLTcCNygYYInGZRzO94lJnm4wReCCU5kw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AGLTcCOeBLOgzVhiKgW6RMsGAp8qfXNjpA" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AGLTcCOgX8grB1NCbwjto4Wh4ckCRhcZvg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AGyH-FtJDOmmfihPFXSE6VjI563sPPkX3w" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AHGWq9AVVSGT3nXXOdAhbtbRzht0N49SqA.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ(1)" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font - rliou925@gmail.com - Gmail_files\scttr" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\162488195-postmessagerelay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\1959351782-lcs_receiver_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\3159521859-lcs_client_bin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD(1)" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\PaqViMJjymkfEosZVjJ-dxC9qDH3FT5VERZM2WD7zRQgvAjdLrpiI9t-QAhztB3Jb5Zao7st8jbC3iDWB8gp50KUVUuEEiGFYMU0wbHAuhv2owJRC_ibTSlVg173xQC1r3SJMEjPjepeGNPV8PtREPgyK1VO_whLvVoAOZWnBmdzIP1_gmMAu3ia01xw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\api.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cb=gapi(1).loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cb=gapi(2).loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cb=gapi.loaded_0" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cb=gapi.loaded_1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cb=gapi.loaded_2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cb=gapi.loaded_3" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\chat.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cleardot(1).gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cleardot.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\client(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\client.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\client.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\cmn2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\core-rpc-shindig.random-shindig.sha1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\dn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\frame(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\frame.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\frame2(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\frame2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\host-js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\hovercard.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\hscv(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\hscv.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\icon_1_archive_x16.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\jn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(10).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(11).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(12).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(13).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(14).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(15).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(16).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(17).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(18).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(3).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(4).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(6).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(7).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(8).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo(9).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\postmessageRelay(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\postmessageRelay(2).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\postmessageRelay.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\profile_mask2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\proxy(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\proxy.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\recentposts.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AA2YrTsdf4ANhQSeVm_GaHNWFT9_ynWpSg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AGLTcCNLsN0OhiWkwdCQUidVNP1Fe9n1uw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AGLTcCNygYYInGZRzO94lJnm4wReCCU5kw" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AGLTcCOeBLOgzVhiKgW6RMsGAp8qfXNjpA" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AGLTcCOgX8grB1NCbwjto4Wh4ckCRhcZvg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AGyH-FtJDOmmfihPFXSE6VjI563sPPkX3w" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AHGWq9AVVSGT3nXXOdAhbtbRzht0N49SqA.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ(1)" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\bauhaus 93 font_files\scttr" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Daniel\Desktop\summittutoring\images\logo.gif" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -25,12 +313,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
-              <folding />
+            <state vertical-scroll-proportion="-0.13031915">
+              <caret line="214" column="0" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,21 +331,19 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state vertical-scroll-proportion="-12.62963">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="middle_english.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="middle_english.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/middle_english.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5532544">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-0.65384614">
+              <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,9 +351,11 @@
       <file leaf-file-name="middle_math.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/middle_math.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1440129738976" expanded="true" signature="6368:6571" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,8 +375,8 @@
       <file leaf-file-name="middle_science.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/middle_science.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,12 +398,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/middle_science.html" />
         <option value="$PROJECT_DIR$/middle_math.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/middle_english.html" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -122,10 +415,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="2" />
-    <option name="width" value="1036" />
-    <option name="height" value="733" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -178,7 +471,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -192,7 +485,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -222,8 +515,12 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.DS_Store</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Thumbs.db</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/css/style.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/middle_english.html</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/middle_math.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/middle_science.html</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -231,6 +528,315 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/contact_us.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/faculty.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/fonts/03950_bauhaus93-webfont.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/fonts/03950_bauhaus93-webfont.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/fonts/03950_bauhaus93-webfont.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/fonts/03950_bauhaus93-webfont.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/fonts/03950_bauhaus93-webfont.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/.DS_Store</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/CreepyTeach.jpeg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/Mr.AntonPowers.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/Mr.EhsonGhandehari.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/Mr.EthanSchnell.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/Mr.JeremyPerrelle.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/Mrs.Sanderson.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/Ms.AnaRosa.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/PedoTeach.jpeg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/Thumbs.db</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/YouNeverKnow.jpeg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/162488195-postmessagerelay.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/1959351782-lcs_receiver_bin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/3159521859-lcs_client_bin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD(1)</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/PaqViMJjymkfEosZVjJ-dxC9qDH3FT5VERZM2WD7zRQgvAjdLrpiI9t-QAhztB3Jb5Zao7st8jbC3iDWB8gp50KUVUuEEiGFYMU0wbHAuhv2owJRC_ibTSlVg173xQC1r3SJMEjPjepeGNPV8PtREPgyK</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/api.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cb=gapi(1).loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cb=gapi(2).loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cb=gapi.loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cb=gapi.loaded_1</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cb=gapi.loaded_2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cb=gapi.loaded_3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/chat.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cleardot(1).gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cleardot.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/client(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/client.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/client.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/cmn2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/core-rpc-shindig.random-shindig.sha1.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/dn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/frame(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/frame2(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/frame2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/host-js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/hovercard.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/hscv(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/hscv.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/icon_1_archive_x16.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/jn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(1).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(10).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(11).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(12).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(13).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(14).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(15).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(16).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(17).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(18).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(2).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(3).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(4).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(5).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(6).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(7).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(8).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo(9).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/photo.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/postmessageRelay(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/postmessageRelay(2).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/postmessageRelay.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/profile_mask2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/proxy(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/proxy.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/recentposts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AA2YrTsdf4ANhQSeVm_GaHNWFT9_ynWpSg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AGLTcCNLsN0OhiWkwdCQUidVNP1Fe9n1uw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AGLTcCNygYYInGZRzO94lJnm4wReCCU5kw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AGLTcCOeBLOgzVhiKgW6RMsGAp8qfXNjpA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AGLTcCOgX8grB1NCbwjto4Wh4ckCRhcZvg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AGyH-FtJDOmmfihPFXSE6VjI563sPPkX3w</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AHGWq9AVVSGT3nXXOdAhbtbRzht0N49SqA.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ(1)</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/saved_resource(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/saved_resource.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html4_files/scttr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/162488195-postmessagerelay.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/1959351782-lcs_receiver_bin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/3159521859-lcs_client_bin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD(1)</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/PaqViMJjymkfEosZVjJ-dxC9qDH3FT5VERZM2WD7zRQgvAjdLrpiI9t-QAhztB3Jb5Zao7st8jbC3iDWB8gp50KUVUuEEiGFYMU0wbHAuhv2owJRC_ibTSlVg173xQC1r3SJMEjPjepeGNPV8PtREPgyK</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/api.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cb=gapi(1).loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cb=gapi(2).loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cb=gapi.loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cb=gapi.loaded_1</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cb=gapi.loaded_2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cb=gapi.loaded_3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/chat.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cleardot(1).gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cleardot.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/client(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/client.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/client.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/cmn2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/core-rpc-shindig.random-shindig.sha1.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/dn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/frame(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/frame2(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/frame2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/host-js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/hovercard.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/hscv(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/hscv.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/icon_1_archive_x16.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/jn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(1).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(10).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(11).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(12).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(13).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(14).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(15).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(16).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(17).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(18).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(2).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(3).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(4).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(5).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(6).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(7).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(8).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo(9).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/photo.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/postmessageRelay(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/postmessageRelay(2).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/postmessageRelay.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/profile_mask2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/proxy(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/proxy.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/recentposts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AA2YrTsdf4ANhQSeVm_GaHNWFT9_ynWpSg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AGLTcCNLsN0OhiWkwdCQUidVNP1Fe9n1uw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AGLTcCNygYYInGZRzO94lJnm4wReCCU5kw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AGLTcCOeBLOgzVhiKgW6RMsGAp8qfXNjpA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AGLTcCOgX8grB1NCbwjto4Wh4ckCRhcZvg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AGyH-FtJDOmmfihPFXSE6VjI563sPPkX3w</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AHGWq9AVVSGT3nXXOdAhbtbRzht0N49SqA.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ(1)</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/saved_resource(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/saved_resource.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail.html5_files/scttr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/162488195-postmessagerelay.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/1959351782-lcs_receiver_bin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/3159521859-lcs_client_bin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD(1)</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/PaqViMJjymkfEosZVjJ-dxC9qDH3FT5VERZM2WD7zRQgvAjdLrpiI9t-QAhztB3Jb5Zao7st8jbC3iDWB8gp50KUVUuEEiGFYMU0wbHAuhv2owJRC_ibTSlVg173xQC1r3SJMEjPjepeGNPV8PtREPgyK1VO_wh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/api.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cb=gapi(1).loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cb=gapi(2).loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cb=gapi.loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cb=gapi.loaded_1</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cb=gapi.loaded_2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cb=gapi.loaded_3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/chat.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cleardot(1).gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cleardot.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/client(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/client.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/client.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/cmn2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/core-rpc-shindig.random-shindig.sha1.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/dn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/frame(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/frame2(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/frame2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/host-js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/hovercard.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/hscv(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/hscv.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/icon_1_archive_x16.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/jn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(1).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(10).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(11).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(12).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(13).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(14).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(15).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(16).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(17).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(18).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(2).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(3).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(4).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(5).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(6).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(7).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(8).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo(9).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/photo.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/postmessageRelay(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/postmessageRelay(2).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/postmessageRelay.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/profile_mask2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/proxy(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/proxy.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/recentposts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AA2YrTsdf4ANhQSeVm_GaHNWFT9_ynWpSg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AGLTcCNLsN0OhiWkwdCQUidVNP1Fe9n1uw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AGLTcCNygYYInGZRzO94lJnm4wReCCU5kw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AGLTcCOeBLOgzVhiKgW6RMsGAp8qfXNjpA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AGLTcCOgX8grB1NCbwjto4Wh4ckCRhcZvg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AGyH-FtJDOmmfihPFXSE6VjI563sPPkX3w</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AHGWq9AVVSGT3nXXOdAhbtbRzht0N49SqA.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ(1)</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/saved_resource(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/saved_resource.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font - rliou925@gmail.com - Gmail_files/scttr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/162488195-postmessagerelay.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/1959351782-lcs_receiver_bin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/3159521859-lcs_client_bin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/AIbEiAIAAABDCNT_19DrmeioDCILdmNhcmRfcGhvdG8qKDcxOTVmYWVmZTE3NTU2NWVlYTczOTA2MDBmZWVmZjA4OWNjZTQyYzQwAeUKSn_BkjW-LoLeVndnsBnh99uD(1)</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/PaqViMJjymkfEosZVjJ-dxC9qDH3FT5VERZM2WD7zRQgvAjdLrpiI9t-QAhztB3Jb5Zao7st8jbC3iDWB8gp50KUVUuEEiGFYMU0wbHAuhv2owJRC_ibTSlVg173xQC1r3SJMEjPjepeGNPV8PtREPgyK1VO_whLvVoAOZWnBmdzIP1_gmMAu3ia01xw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/api.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cb=gapi(1).loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cb=gapi(2).loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cb=gapi.loaded_0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cb=gapi.loaded_1</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cb=gapi.loaded_2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cb=gapi.loaded_3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/chat.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cleardot(1).gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cleardot.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/client(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/client.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/client.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/cmn2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/core-rpc-shindig.random-shindig.sha1.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/dn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/frame(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/frame.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/frame2(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/frame2.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/host-js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/hovercard.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/hscv(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/hscv.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/icon_1_archive_x16.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/jn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(1).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(10).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(11).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(12).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(13).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(14).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(15).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(16).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(17).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(18).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(2).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(3).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(4).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(5).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(6).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(7).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(8).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo(9).jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/photo.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/postmessageRelay(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/postmessageRelay(2).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/postmessageRelay.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/profile_mask2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/proxy(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/proxy.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/recentposts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AA2YrTsdf4ANhQSeVm_GaHNWFT9_ynWpSg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AGLTcCNLsN0OhiWkwdCQUidVNP1Fe9n1uw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AGLTcCNygYYInGZRzO94lJnm4wReCCU5kw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AGLTcCOeBLOgzVhiKgW6RMsGAp8qfXNjpA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AGLTcCOgX8grB1NCbwjto4Wh4ckCRhcZvg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AGyH-FtJDOmmfihPFXSE6VjI563sPPkX3w</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AHGWq9AVVSGT3nXXOdAhbtbRzht0N49SqA.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/rs=AItRSTPOWGI_kROKlKX9NGLO-MOVVH8_gQ(1)</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/saved_resource(1).html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/saved_resource.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bauhaus 93 font_files/scttr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/carolen.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/creepyaf.jpeg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/dhprofessional.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/ehson.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/hancock.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/santos.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/sidd.JPG</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -238,6 +844,8 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/CreepyTeach.jpeg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/style.css</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -391,31 +999,37 @@
       <option name="project" value="LOCAL" />
       <updated>1440036525507</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changed english page">
+      <created>1440036740171</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1440036740171</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1036" height="733" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33137256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18448023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32283464" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -436,8 +1050,70 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_english.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_math.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1440129738976" expanded="true" signature="6368:6571" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_science.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -453,9 +1129,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +1137,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1440129738976" expanded="true" signature="6368:6571" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -489,7 +1165,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -505,9 +1186,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -515,7 +1194,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding />
+          <folding>
+            <marker date="1440129738976" expanded="true" signature="6368:6571" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -523,6 +1204,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_math.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1440129738976" expanded="true" signature="6368:6571" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_english.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -539,42 +1238,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/middle_science.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/middle_math.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state vertical-scroll-proportion="-12.62963">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/middle_english.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5532544">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        <state vertical-scroll-proportion="-0.13031915">
+          <caret line="214" column="0" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
