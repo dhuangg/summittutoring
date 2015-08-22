@@ -220,7 +220,7 @@ padding-bottom:2px;
 	font-family: 'bauhaus_93regular';
 	font-size: 65px;
 	margin-left: 50px;
-	margin-top: 150px;
+	margin-top: 50px;
 
 }
 #contactuswords{
@@ -249,13 +249,25 @@ padding-bottom:2px;
 #contactshit{
 	height:90px;
 	margin-left: 850px;
-	margin-top: px;
+	margin-top: 800px;
+
 }
 #firstname, #lastname, #telephonenumber, #commet, #emailaddress{
 	font-size: 20px;
 	margin-left: -150px;
 	margin-right: 100px;
+	width:100px;
 }
 #contactshit{
 	margin-top: 150px;
+}
+#balls{
+	color: white;
+	margin-top:90px;
+}
+#emailaddress{
+	width:150px;
+}
+#telephonenumber{
+	width:200px;
 }
