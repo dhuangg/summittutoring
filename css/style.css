@@ -3,8 +3,26 @@
 padding-top:30px !important;
 padding-bottom:30px !important;
 }
-
-
+#myScrollspy{
+	float: right;
+	z-index: 2;
+}
+#mathContainer{
+	padding-left:15px;
+	padding-right:15px;
+	margin-left:30px;
+	margin-right:360px;
+}
+.TeachersBio{
+	line-height: 2;
+	font-size:15px;
+}
+.TeachersSpacing{
+	padding-top: 120px;
+}
+.bold{
+	font-weight: bolder;
+}
 
 
 
