@@ -25,14 +25,19 @@ padding-bottom:10px !important;
 .bold{
 	font-weight: bolder;
 }
-#scienceSpace{
-margin-top: 30%;
+.subjectSpace{
+margin-top: 20%;
 text-align:center;
 }
 .specialFont{
 	font-family:'bauhaus_93regular';
 }
-
+#SpecialSpacing{
+	padding-bottom:7%;
+}
+#SpecialSpacing2{
+	padding-bottom:7%;
+}
 
 
 
